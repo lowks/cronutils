@@ -39,7 +39,7 @@ setup(
     
     author = "Zagaran, Inc.",
     author_email = "zags at zagaran.com",
-    description = "",
+    description = "Tool to simply configuration and dispatching of from tasks",
     license = "MIT",
     keywords = "cron crontab task error handling",
     url = "https://github.com/zagaran/cronutils",
